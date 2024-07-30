@@ -1,34 +1,6 @@
 {
-  "AB": {
-    "A": {
-      "U": "1",
-      "onoff": 0,
-      "isios": 0,
-      "iosU": "1",
-      "Area": [
-        "BR",
-        "KR"
-      ],
-      "Event": [
-        "login",
-        "logout",
-        "registerClick",
-        "register",
-        "rechargeClick",
-        "firstrecharge",
-        "recharge",
-        "withdrawClick"
-      ],
-      "ID": [
-        "88jtbg",
-        "1cmghd",
-        "ot61m1",
-        "j7571q",
-        "mbtip4",
-        "w56g1b",
-        "vimz0r",
-        "kvebfc"
-      ]
-    }
+  "usenameinfo": {
+    "name":"https://www.baidu.com/",
+    "age":"1"
   }
 }
